@@ -27,6 +27,10 @@
     background-color: #e4dbbf
   }
 
-  #playsong{
-    background-color: #dc5b21;
+  button, #playsong, #forward, #turnRight, #turnLeft, #backward, #backright, #backleft{
+    background-color: #76b195;
+  }
+
+  button, #playsong, #forward, #turnRight, #turnLeft, #backward, #backright, #backleft{
+    color: #dc5b21;
   }
