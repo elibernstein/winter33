@@ -18,17 +18,15 @@
   .darkness {
       background-color: black;
   }
+  #playsong{
+    position: relative;
+    left: 570px;
+  }
 
-  .rotate-right-45 {
-    -webkit-transform:rotate(45deg);
-    -moz-transform:rotate(45deg);
-    -o-transform:rotate(45deg);
-    .rotate(45deg);
-}
+  body{
+    background-color: #e4dbbf
+  }
 
-  .rotate-left-45 {
-    -webkit-transform:rotate(-45deg);
-    -moz-transform:rotate(-45deg);
-    -o-transform:rotate(-45deg);
-    .rotate(45deg);
-}
+  #playsong{
+    background-color: #dc5b21;
+  }
