@@ -34,3 +34,15 @@
   button, #playsong, #forward, #turnRight, #turnLeft, #backward, #backright, #backleft{
     color: #dc5b21;
   }
+
+  .controls{
+    display: block;
+    position: relative;
+    left: 300px;
+  }
+
+  #playsong{
+    position: relative;
+    top: 250px;
+    left: 130px;
+  }
